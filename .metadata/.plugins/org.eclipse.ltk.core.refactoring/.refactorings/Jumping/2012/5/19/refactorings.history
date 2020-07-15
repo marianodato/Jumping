@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;i&apos; from expression &apos;650&apos;&#x0D;&#x0A;- Original project: &apos;Jumping&apos;&#x0D;&#x0A;- Variable name: &apos;i&apos;&#x0D;&#x0A;- Destination method: &apos;Jumping.setup()&apos;&#x0D;&#x0A;- Variable expression: &apos;650&apos;" description="Extract local variable &apos;i&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/generated\/preproc&lt;{Jumping.java" name="i" replace="false" selection="852 3" stamp="1336563982562" version="1.0"/>
+</session>

@@ -1,0 +1,12 @@
+package Objetos.Plataformas;
+
+import Objetos.Punto;
+
+public class Roja extends Fija {
+
+	public Roja(Punto pos, float ancho, float alto, float poso) {
+		super(pos, ancho, alto, poso);
+		// TODO Auto-generated constructor stub
+	}
+
+}

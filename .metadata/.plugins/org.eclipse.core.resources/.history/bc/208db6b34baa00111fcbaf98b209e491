@@ -1,0 +1,5 @@
+package Objetos.Plataformas;
+
+public class Verde extends Fija {
+
+}

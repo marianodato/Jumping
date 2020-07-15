@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="processing.core.PImage"/>
+<fullyQualifiedTypeName name="Interfaces.Mostrable"/>
+<fullyQualifiedTypeName name="Interfaces.Movible"/>
+<fullyQualifiedTypeName name="Objetos.Objeto"/>
+<fullyQualifiedTypeName name="Objetos.Hero"/>
+<fullyQualifiedTypeName name="Objetos.Plataformas.Fija"/>
+<fullyQualifiedTypeName name="java.util.Vector"/>
+<fullyQualifiedTypeName name="Objetos.Plataformas.Plataforma"/>
+<fullyQualifiedTypeName name="processing.core.PApplet"/>
+<fullyQualifiedTypeName name="sun.org.mozilla.javascript.internal.ast.Jump"/>
+<fullyQualifiedTypeName name="java.security.Principal"/>
+<fullyQualifiedTypeName name="Principal.Jumping"/>
+<fullyQualifiedTypeName name="Objetos.Plataformas.Roja"/>
+<fullyQualifiedTypeName name="Objetos.Plataformas.Verde"/>
+</qualifiedTypeNameHistroy>
